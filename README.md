@@ -45,14 +45,7 @@
 
 **[References](#references)**
 
-#
 
-# Introduction
-
-To develop a RPC based file operation server which can perform the file
-operations such as Upload, download, rename, delete operations using the
-python language and and also to add functionality like dropbox which can
-set the client side to be constantly in sync with the server side.
 
 # RPC
 
